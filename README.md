@@ -19,4 +19,7 @@ vue-router + vuex + vue-awesome-swiper
 
 ### 最终实现效果
 
-![p1](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result1.png)
+![主界面](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result1.png)
+![详情界面](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result2.png)
+![城市选择界面](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result3.png)
+![城市搜索界面](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result4.png)
