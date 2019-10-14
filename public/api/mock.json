@@ -1,0 +1,137 @@
+{
+  "success": true,
+  "data": {
+    "swiperList": [{
+      "id": "0001",
+      "imgUrl": "./photo/swiper1.jpg"
+    },{
+      "id": "0002",
+      "imgUrl": "./photo/swiper2.jpg"
+    },{
+      "id": "0003",
+      "imgUrl": "./photo/swiper3.jpg"
+    }],
+    "iconList": [{
+      "id": "0001",
+      "imgUrl": "./photo/icon1.png",
+      "desc": "景点门票" 
+    },
+    {
+      "id": "0002",
+      "imgUrl": "./photo/icon2.png",
+      "desc": "深圳必游" 
+    },
+    {
+      "id": "0003",
+      "imgUrl": "./photo/icon3.png",
+      "desc": "国庆特惠" 
+    },
+    {
+      "id": "0004",
+      "imgUrl": "./photo/icon4.png",
+      "desc": "海洋馆" 
+    },
+    {
+      "id": "0005",
+      "imgUrl": "./photo/icon5.png",
+      "desc": "夜场狂欢" 
+    },
+    {
+      "id": "0006",
+      "imgUrl": "./photo/icon6.png",
+      "desc": "深圳动物园" 
+    },
+    {
+      "id": "0007",
+      "imgUrl": "./photo/icon7.png",
+      "desc": "世界之窗" 
+    },
+    {
+      "id": "0008",
+      "imgUrl": "./photo/icon8.png",
+      "desc": "东部华侨城" 
+    },
+    {
+      "id": "0009",
+      "imgUrl": "./photo/icon9.png",
+      "desc": "一日游" 
+    },
+    {
+      "id": "0010",
+      "imgUrl": "./photo/icon10.png",
+      "desc": "玩转长隆" 
+    }],
+    "recommendList": [{
+      "id": "0001",
+      "imgUrl": "./photo/r1.png",
+      "title": "世界之窗",
+      "desc": "小伙伴们都收藏了，去看看吧"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "./photo/r2.jpg",
+        "title": "东部华侨城大峡谷",
+        "desc": "峡谷中的刺激游乐园，玩的就是心跳"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./photo/r3.jpg",
+        "title": "深圳野生动物园",
+        "desc": "放养式动物园，让你和动物们“零距离”"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "./photo/r4.jpg",
+        "title": "小梅沙海洋世界",
+        "desc": "好评如潮，小伙伴热推景点"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "./photo/r5.jpg",
+        "title": "锦绣中华民俗村",
+        "desc": "一步迈向历史，一天游遍中华"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "./photo/r6.jpg",
+        "title": "Skyland未来科技馆",
+        "desc": "深圳新的亲子游乐打卡圣地"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "./photo/r7.jpg",
+        "title": "华侨城",
+        "desc": "体验大峡谷的乐动和茶溪谷的恬静"
+      }],
+      "WeekendRecommendList": [{
+        "id": "0001",
+        "imgUrl": "./photo/w1.jpg",
+        "title": "深圳周边游",
+        "desc": "远离城市拥堵，去周边开启清新假期吧"
+        },
+        {
+          "id": "0002",
+          "imgUrl": "./photo/w2.jpg",
+          "title": "清远周边游",
+          "desc": "人人都有一双发现美的眼睛，身边的事物最熟悉不过"
+        },
+        {
+          "id": "0003",
+          "imgUrl": "./photo/w3.jpg",
+          "title": "附在海上的绿洲",
+          "desc": "南国滨海之城，避寒胜地，有暖暖的阳光，海风"
+        },
+        {
+          "id": "0004",
+          "imgUrl": "./photo/w4.jpg",
+          "title": "深圳比打卡",
+          "desc": "来到深圳，你需要来这里签到"
+        },
+        {
+          "id": "0005",
+          "imgUrl": "./photo/w5.jpg",
+          "title": "欢乐长隆",
+          "desc": "世界欢乐汇聚长隆，这里拥有多个大型游乐设备"
+        }]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "data": {
+    "sightName": "世界之窗(AAAAA景区)",
+    "bannerImage": "./photo/b1.png",
+    "gallaryImage": [
+      {
+        "id": "0001",
+        "imgUrl": "./photo/b1.png"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "./photo/b2.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "./photo/b3.jpg"
+      }],
+    "detailList": [
+      {
+        "title": "活动票",
+        "children": [{
+          "title": "[国庆促销]世界之窗成人票（日夜场通玩）"
+        },
+        {
+          "title": "[促销抢购]华侨城深圳六大景区畅游卡"
+        }]
+      },
+      { 
+        "title": "成人票",
+        "children": [{
+          "title": "日夜场通玩票"
+        },
+        {
+          "title": "[当天可订]日夜场通玩票"
+        }]
+      },
+      {
+        "title": "一日游",
+        "children": [{
+          "title": "【深圳出发】世界之窗+地王顶层观光+大梅沙沙滩+中英街一日游"
+        },
+        {
+          "title": "【深圳出发】海滨栈道+游艇深港环岛+中英街+世界之窗1日游"
+        }]
+      },
+      {
+        "title": "旅行跟拍",
+        "children": [{
+          "title": "深圳旅行跟拍2小时"
+        },
+        {
+          "title": "深圳旅行跟拍3小时"
+        }]
+      }
+    ]
+  }
+}
