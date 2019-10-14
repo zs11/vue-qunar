@@ -1,29 +1,23 @@
-# gowhere
+# gowhere-基于课程模仿的手机端去哪儿
+通过vue-cli初始化项目
 
-## Project setup
+## 项目依赖安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 技术栈应用
 ```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
+vue-router + vuex + vue-awesome-swiper
+适合初学者学习和理解
 ```
 
-### Lints and fixes files
-```
-npm run lint
+### 最终实现效果
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
