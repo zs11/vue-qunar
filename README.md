@@ -19,5 +19,5 @@ vue-router + vuex + vue-awesome-swiper
 
 ### 最终实现效果
 ```
-![主界面](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result1.png)
+![](https://github.com/zs11/vue-qunar/blob/master/src/assets/result/result1.png)
 ```
